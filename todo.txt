@@ -1,4 +1,4 @@
-0) https://svelte.dev/
+0) https://svelte.dev/, npm install, npm run dev
 1) 10x10
 2) игра с компом
 3) 4к - 1шт, 3к - 2шт, 2к - 3шт, 1к - 4шт
